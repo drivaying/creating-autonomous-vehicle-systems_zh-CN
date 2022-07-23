@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drivaying.github.io/sitemap.xml.gz
