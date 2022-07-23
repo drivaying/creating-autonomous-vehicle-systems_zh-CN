@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://drivaying.github.io/sitemap.xml.gz
+Sitemap: https://drivaying.github.io/creating-autonomous-vehicle-systems_zh-CN/sitemap.xml.gz
