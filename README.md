@@ -27,7 +27,7 @@
 
 ## 快速上手
 
-> 推荐阅读在线版本：
+> 推荐阅读在线版本：[双手放开方向盘](https://drivaying.github.io/creating-autonomous-vehicle-systems_zh-CN/)
 
 这是一个retype项目，请前往[retype主页](https://github.com/retypeapp/retype)，阅读*readme.md*并学习如何安装与使用`retype`。
 
