@@ -1,0 +1,27 @@
+input: .
+output: .retype
+url: https://drivaying.github.io/
+branding:
+  title: "双手放开方向盘"
+  logo: "/static/logo/drivay.png"
+  logoDark: "/static/logo/drivay.png"
+cache:
+  strategy: "query"
+favicon: "/static/logo/drivay.png"
+links:
+    - text: Home
+      link: https://github.com/drivaying/creating-autonomous-vehicle-systems_zh-CN
+      icon: mark-github
+footer:
+  copyright: "© Copyright 2022 - [Drivay](https://github.com/drivaying) - All rights reserved."
+  links:
+    - text: About
+      link: "Readme.md"
+      icon: ":question:"
+      iconAlign: "left"
+    - text: License
+      link: "LICENSE"
+      icon: ":key:"
+      inconAlign: "left"
+meta:
+  title: " | Drivay - driving and playing"
