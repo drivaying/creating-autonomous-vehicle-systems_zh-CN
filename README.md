@@ -1,4 +1,4 @@
-![](/static/face/wolfgang-hasselmann.jpg)
+![](/static/face/0-begin.jpg)
 
 *致谢：*  
 
