@@ -16,11 +16,11 @@ footer:
   copyright: "© Copyright 2022 - [Drivay](https://github.com/drivaying) - All rights reserved."
   links:
     - text: About
-      link: "Readme.md"
+      link: "README.md"
       icon: ":question:"
       iconAlign: "left"
     - text: License
-      link: "LICENSE"
+      link: "LICENSE.md"
       icon: ":key:"
       inconAlign: "left"
 meta:
